@@ -9,4 +9,4 @@ Detailed models are provided for describing dynamic behaviors of fix-axis gearbo
 
 We now use OpenModelica as our simulation tool. More work is needed, and we need chance to use this library in real vehicle transmission developing process.
 
-Please contact us if you are interested in this or if we can help, email: wubonian1990@gmail.com.
+Please contact us if you are interested in this or if we can help, email: wubonian1990@outlook.com.
